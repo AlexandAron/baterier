@@ -1,0 +1,33 @@
+p, li, h2, {
+
+    font-size:30px;
+
+text-align: left;}
+
+p {
+
+color: lime;
+
+
+
+
+
+}
+
+table {
+
+border-collapse: collapse;
+
+}
+
+
+
+tr, th {
+
+border: 5px solid#FF69b4;
+
+text-align: left;
+
+padding: 8px;
+
+}
