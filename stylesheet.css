@@ -54,7 +54,7 @@ padding: 8px;
 }
 header
 {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -62,7 +62,7 @@ header
   z-index: 1000;
   justify-content: space-between;
   align-items: center;
-  display: inline-block;
+  display: flex;
   
 }
 header .logo
