@@ -63,6 +63,7 @@ header
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 80px 0 0 0;
 }
 header .logo
 {
@@ -72,7 +73,6 @@ header .logo
 }
 .toggle
 {
-  position: relative;
   width: 60px;
   height: 60px;
   background: url(https://i.ibb.co/HrfVRcx/menu.png);
