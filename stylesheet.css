@@ -257,3 +257,6 @@ header .logo
     height: auto;
     margin: auto;
 } 
+body {
+height: 100%;
+}
